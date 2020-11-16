@@ -12,11 +12,12 @@ As a community we are stronger by working together. Buoy Maps is a social networ
 Explore the world around you through Buoy maps. See interesting things your neighbors spotted or learn about places you are traveling. Post about whatever interests YOU.
 
 ### Citizen Science (Research)
-Collect information from the community. Identify ecological trends environmental by recruiting from a global community. Buoy Maps brings all types of observations under 1 roof so users have a central place to report sightings that is consistent regardless of interest. [Learn more About Citizen Science](science)
+Collect information from the community. Identify ecological & environmental trends by recruiting from a global community. Buoy Maps brings all types of observations under 1 roof so users have a central place to report sightings across any interest. [Learn more About Citizen Science](science)
 
 ### Community Organization (Action)
-Take action based on community posts. Take care of invasive plants before they become a problem. Cleanup a neighborhood park. Make the world a more enjoyable place to live. [Learn more about Community Organization](organization)
+Take action based on community posts.  With Buoy maps you can work together to make your hometown a more enjoyable place to live, by seeing what's happening and taking action. [Learn more about Community Organization](organization)
 
 ### Municipal Maintenance (Management)
+Receive reports of potholes, broken street lamps, garbage and other road hazards from the public. Advertise when these issues are fixed, so that the public knows about the hard work you do.
 [Learn more about Municipal Maintenance](municipal)
 
